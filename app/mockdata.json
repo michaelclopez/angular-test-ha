@@ -1,0 +1,34 @@
+{
+  "makes":[
+    {
+      "name":"Acura",
+      "models":[
+        {
+          "name":"ILX",
+          "description":"description placeholder",
+          "photo_url":"placeholder.jpg"
+        },
+        {
+          "name":"MDX",
+          "description":"description placeholder",
+          "photo_url":"placeholder.jpg"
+        }
+      ]
+    },
+    {
+      "name":"ford",
+      "models":[
+        {
+          "name":"Edge",
+          "description":"description placeholder",
+          "photo_url":"placeholder.jpg"
+        },
+        {
+          "name":"Escape",
+          "description":"description placeholder",
+          "photo_url":"placeholder.jpg"
+        }
+      ]
+    }
+  ]
+}
